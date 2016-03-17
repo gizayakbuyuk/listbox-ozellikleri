@@ -1,0 +1,8 @@
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\bin\Debug\ListBox Özellikleri.exe.config
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\bin\Debug\ListBox Özellikleri.exe
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\bin\Debug\ListBox Özellikleri.pdb
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\obj\Debug\ListBox_Özellikleri.Form1.resources
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\obj\Debug\ListBox_Özellikleri.Properties.Resources.resources
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\obj\Debug\ListBox Özellikleri.csproj.GenerateResource.Cache
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\obj\Debug\ListBox Özellikleri.exe
+D:\Görsel Programlama\14.Ders (02.03.2016)\ListBox Özellikleri\ListBox Özellikleri\obj\Debug\ListBox Özellikleri.pdb
